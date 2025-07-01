@@ -4,7 +4,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP** e atualm
 
 ## 🕹️ Sobre Mim
 
-- 💻 Tenho experiência prática com **automação em Python**, usando bibliotecas como `PyPDF2`, `Selenium` e ferramentas como **Power Automate**.
+- 💻 Tenho experiência prática com **automação em Python**, usando bibliotecas como `PyPDF2` e `Selenium`.
 - 🧠 Me interesso profundamente por **IA** e **chatbots** — já desenvolvi projetos integrando o **IBM Watson Assistant** com **Node-RED** e **Telegram**.
 - 🔧 Cursei e apliquei conceitos de **Programação Orientada a Objetos (POO)** em Java, incluindo projetos de locação de veículos e o sistema **SaveUs**, voltado para prevenção de desastres na Global Solution 2025/1.
 - 💬 Gosto de trabalhar em equipe e estou sempre buscando aprender com colegas mais experientes.
