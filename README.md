@@ -8,7 +8,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP** e atualm
 - 🧠 Me interesso profundamente por **IA** e **chatbots** — já desenvolvi projetos integrando o **IBM Watson Assistant** com **Node-RED** e **Telegram**.
 - 🔧 Cursei e apliquei conceitos de **Programação Orientada a Objetos (POO)** em Java, incluindo projetos de locação de veículos e o sistema **SaveUs**, voltado para prevenção de desastres na Global Solution 2025/1.
 - 💬 Gosto de trabalhar em equipe e estou sempre buscando aprender com colegas mais experientes.
-- 🎯 Atualmente focado em transição para a área de **Engenharia de Qualidade** e **automação de testes**, principalmente no ecossistema do **PIX**.
+- 🎯 Atualmente focado em transição para a área de **Garantia de Qualidade** e **automação de testes**, principalmente no ecossistema do **PIX**.
 
 <div> 
   <a href="https://www.youtube.com/@kurtyzera" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
