@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gustavo Tavares!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP** e atualmente trabalho como **aprendiz no C6 Bank**, na área de Field Service. Tenho 19 anos e sou apaixonado por tecnologia, com foco em **automação, inteligência artificial** e **qualidade de software**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP** e atualmente trabalho como **aprendiz no C6 Bank**, na área de Field Service. Tenho 20 anos e sou apaixonado por tecnologia, com foco em **automação, inteligência artificial** e **qualidade de software**.
 
 ## 🕹️ Sobre Mim
 
